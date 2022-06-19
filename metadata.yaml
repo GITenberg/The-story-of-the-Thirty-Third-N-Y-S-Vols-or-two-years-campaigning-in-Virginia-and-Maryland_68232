@@ -1,0 +1,32 @@
+_repo: The-story-of-the-Thirty-Third-N-Y-S-Vols-or-two-years-campaigning-in-Virginia-and-Maryland_68232
+_version: 0.0.1
+alternative_title:
+- "The story of the 33d N. Y. S. Volunteers\r\nor two years campaigning in Virginia\
+  \ and Maryland"
+- "The story of the 33rd N. Y. S. Volunteers\r\nor two years campaigning in Virginia\
+  \ and Maryland"
+creator:
+  author:
+    agent_name: Judd, David Wright
+    alias: Judd, David W.
+    birthdate: 1838
+    deathdate: 1888
+    gutenberg_agent_id: '54665'
+    url: http://www.gutenberg.org/2009/agents/54665
+description: ''
+gutenberg_issued: '2022-06-04'
+identifiers:
+  gutenberg: '68232'
+  lccn: '02015035'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States. Army. New York Infantry Regiment, 33rd (1861-1863)'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- GITenberg
+title: "The story of the Thirty-Third N. Y. S. Vols\r\nor two years campaigning in\
+  \ Virginia and Maryland"
+url: http://www.gutenberg.org/ebooks/68232
