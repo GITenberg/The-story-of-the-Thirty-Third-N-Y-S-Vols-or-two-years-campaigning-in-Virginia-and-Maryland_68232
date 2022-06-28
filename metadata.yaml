@@ -5,6 +5,9 @@ alternative_title:
   \ and Maryland"
 - "The story of the 33rd N. Y. S. Volunteers\r\nor two years campaigning in Virginia\
   \ and Maryland"
+covers:
+- cover_type: archival
+  image_path: 68232-h/images/cover.jpg
 creator:
   author:
     agent_name: Judd, David Wright
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '54665'
     url: http://www.gutenberg.org/2009/agents/54665
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68232#The-story-of-the-Thirty-Third-N-Y-S-Vols-or-two-years-campaigning-in-Virginia-and-Maryland
 gutenberg_issued: '2022-06-04'
 identifiers:
   gutenberg: '68232'
